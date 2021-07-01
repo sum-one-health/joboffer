@@ -1,0 +1,57 @@
+* Fullstack/Frontend developer (Clojure & Clojurescript)
+
+SumOne (Germany, Berlin/Brandenburg)
+
+https://sum-one.org
+
+https://www.linkedin.com/company/sum-one-health
+
+* About us
+
+We’re a small bootstrapped company based in Berlin and Brandenburg with a diverse team. Our backgrounds vary, ranging from mathematics and robotics, to AI/Machine Learning and medicine.
+For our current product we received funding to build a software system to help health care professionals in hospitals use medical data in a more effective way, and in the future to actively help shape the treatment process.
+The backbone of this system is a data- and database-editor in the browser.
+
+The company's founders are mostly technical and we try our best to let developers spend most of their time developing.
+We value pragmatic solutions and take the time to write good code, but try to not overengineer things.
+Solutions are usually discussed and decided on together, but the details are left to whoever is responsible.
+
+* About you
+
+We're looking for a fullstack/frontend developer writing mostly Clojure & Clojurescript,
+to participate in designing, implementing, testing, deploying features;
+and to become a long-term core member of our team!
+
+We're looking to fill a fulltime position, but exact hours are negotiable - work-life balance is important to us.
+
+** Your profile
+
+- Experience in programming
+  + Capable of independent as well as collaborative problem solving
+  + 3+ years of programming experience with 2 or more languages
+  + Comfortable with functional programming
+  + Expertise in CSS and React
+
+- Bonus experience
+  + Clojure & Clojurescript programming
+  + Fulcro among other frontend frameworks
+  + RDF databases a la datomic
+  + Testing and dev ops
+  + Unafraid of mathemagics: algebraic abstraction, logical programming, etc.
+
+- Enthusiasm in learning and sharing knowledge
+  + Excited about new technologies and willing to try them out
+  + Happy to share your learnings
+
+* What we offer
+
+ - Flexible working hours
+ - 1-2 fixed office days a week, the rest can be worked from home
+ - A stimulating working environment with meetups and knowledge sharing
+ - Mainly coding! Meetings are kept to a minimum
+ - Agency and ownership in your work
+ - An interesting topic with a real-world benefit
+
+* Interested?
+
+Just send us some info about yourself and your experience to info@sum-one.org and we'll get in touch as soon as possible.
